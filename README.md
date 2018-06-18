@@ -6,7 +6,7 @@ A scientist, engineer, software developer and music enthusiast, Sanjay is gradua
 ### Description of Projects:
 
 #### Bioinformatics Exercises:
-Compilation of short exercises on manipulating bioinformatics files with Pandas.
+Compilation of short exercises on manipulating bioinformatics files with Pandas. (In progress)
 
 #### Calculating Hours:
 A function that accepts an uncleaned data file (output from a google form that logs DJ volunteering hours) as an input and produces a .csv file that shows each DJ and the hours they have worked for each category, as well as indicating whether they have satisfied their requirements for the quarter. Uses Python and Pandas.
