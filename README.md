@@ -4,6 +4,10 @@
 A scientist, engineer, software developer and music enthusiast, Sanjay is graduating with a Masters in Electrical Engineering at UC San Diego, where he also obtained his Bachelors in Bioengineering. He hopes to make valuable contributions to the medical industry by applying his wide experience in various fields like digital and analog circuitry, signal processing, data analysis, machine learning, deep learning and artificial intelligence. Find some of his other projects at https://sanjayjohn.carbonmade.com, or listen to his music as Rookie Doyen on Spotify, SoundCloud or Bandcamp at https://rookiedoyen.bandcamp.com.
 
 ### Description of Projects:
+
+#### Bioinformatics Exercises:
+Compilation of short exercises on manipulating bioinformatics files with Pandas.
+
 #### Calculating Hours:
 A function that accepts an uncleaned data file (output from a google form that logs DJ volunteering hours) as an input and produces a .csv file that shows each DJ and the hours they have worked for each category, as well as indicating whether they have satisfied their requirements for the quarter. Uses Python and Pandas.
 
