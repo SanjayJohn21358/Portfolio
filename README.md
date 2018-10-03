@@ -11,6 +11,9 @@ Compilation of short exercises on manipulating bioinformatics files with Pandas.
 #### MNIST Handwritten Digits - Neural Network Application
 Tackles the popular neural network problem with detailed theoretical explanations and applications in Python code. Uses gradient descent.
 
+#### Scraping Property Website
+A project that scrapes a Vancouver-based real estate website and produces a datasheet containing properties in the market and their respective details.
+
 #### Calculating Hours:
 A function that accepts an uncleaned data file (output from a google form that logs DJ volunteering hours) as an input and produces a .csv file that shows each DJ and the hours they have worked for each category, as well as indicating whether they have satisfied their requirements for the quarter. Uses Python and Pandas.
 
